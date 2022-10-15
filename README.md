@@ -2,21 +2,19 @@
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Kagayo Joffrey</h1>
   <p align="justify">
   <small>
-  I'm a 💯 <b>web developer</b>🖥️, <br/> 
-  I enjoy challenging 👷 and technically interesting software development projects.
-  I love building anything from small side projects to complex themes and intents. My one interest is in improving myself 😎. I get excited 🤩 about creating beautiful, functional, and fun products.
+  I am a junior software developer and UI/UX designer, I'm currently not working. I'm however learning programming, and I have some experience in front-end web development.
+  I have been designing websites for my own small business, and recently have decided to use my talents to create projects full-time. I’m happy to not only build the website, but also work on digital marketing, social media management, UI/UX design engineering,... etc.
   I'm driven to create things that solve practical problems. I can work autonomously and collaborate with other developers to bring your projects to life.
-  I have a passion for exploring new ideas 💡 and ways of doing things. This has manifested itself in my desire to learn new programming languages, technology stacks 👨‍💻 and software development practices. <br/>
+  I have a passion for exploring new ideas and ways of doing things. This has manifested itself in my desire to learn new programming languages, technology stacks and software development practices. <br/>
   </small>
 </p>
 </div>
 
 ## 😎  More About Me
-- 👨‍🎓 I am a Alumni at<b> <a href="https://iuea.ac.ug/Graduation/sitepad-data/uploads//2022/06/GradLists-2019.pdf" target="_blank" rel="noopener noreferrer">
+- I am a Alumni at<b> <a href="https://iuea.ac.ug/Graduation/sitepad-data/uploads//2022/06/GradLists-2019.pdf" target="_blank" rel="noopener noreferrer">
       Faculty of Science & Technology in Computer Science ( 3 Years ) 
       </a> </b>  at International University of East Africa.
-- 🖥️ All of my projects are built with the goal to make software more accessible to people who could not use it before.
-- 🧑‍💻 I am a competitive programmer, always eager to learn more and explore new technologies.`
+- I am a competitive junior software developer, always eager to learn more and explore new technologies.`
 
 <div>
     <h2 align="left">🤙 Let Us Get In Touch</h2>
