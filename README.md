@@ -4,8 +4,8 @@
   <small>
   I am a frontend software developer and UI/UX designer, I have experience in front-end web development.
   I have been designing websites for my own small business, and recently have decided to use my skills to create projects full-time. I’m happy to not only build the website, but also work on digital marketing, social media management, UI/UX design engineering,... etc.
-  I'm driven to create things that solve practical problems. I can work autonomously and collaborate with other developers to bring your projects to life.
-  I have a passion for exploring new ideas and ways of doing things. This has manifested itself in my desire to learn new programming languages, technology stacks and software development practices. <br/>
+  I'm driven to create solutions that solve practical problems. I can work autonomously and collaborate with other developers to bring your projects to life.
+  I have a passion for exploring new ideas and ways of tackling new challenges. This has manifested itself in my desire to learn new programming languages, technology stacks and software development practices. <br/>
   </small>
 </p>
 </div>
@@ -14,7 +14,7 @@
 - I am a Alumni at<b> <a href="https://iuea.ac.ug/Graduation/sitepad-data/uploads//2022/06/GradLists-2019.pdf" target="_blank" rel="noopener noreferrer">
       Faculty of Science & Technology in Computer Science ( 3 Years ) 
       </a> </b>  at International University of East Africa.
-- I am a competitive junior software developer, always eager to learn more and explore new technologies.`
+- I am a competitive frontend software developer, always eager to learn more and explore new technologies.`
 
 <div>
     <h2 align="left">🤙 Let Us Get In Touch</h2>
